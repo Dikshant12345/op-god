@@ -1,0 +1,3 @@
+ip-dikshant213.aternos.me
+port-34684
+name-op hot
